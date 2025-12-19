@@ -30,9 +30,9 @@ This repository contains a curated collection of **modern, responsive, and inter
 ## 📫 Contact
 
 - **Name:** Waqar Ali  
-- **Email:** wa5134810@gmail.com  
+- **Email:** [Email](wa5134810@gmail.com  )
 - **GitHub:** [WaqarAli](https://github.com/Waqar-5)  
-- **LinkedIn:** [Waqar Ali](https://www.linkedin.com/in/waqar-ali-997b962b5/))  
+- **LinkedIn:** [Waqar Ali](https://www.linkedin.com/in/waqar-ali-997b962b5/)
 
 ---
 
